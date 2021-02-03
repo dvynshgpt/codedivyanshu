@@ -1,0 +1,8 @@
+* {background-color: lightblue;}
+span:hover{color: red ;}
+span{color: rgb(38, 102, 38);}
+a:hover{color:rgb(209, 30, 30); text-decoration: none ;}
+.bold{font-style:initial; color: rgb(44, 31, 26); font-size: large;} 
+ .aboutme{color: red; background-color: darkblue; font-weight: 600;}
+h4{color: rgb(54, 39, 39);}
+.special{color: rgb(148, 10, 10)
